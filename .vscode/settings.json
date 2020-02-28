@@ -4,5 +4,7 @@
         "**/obj": true,
         "**/packaging": true,
         "**/coverage-results": true
-    }
+    },
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2
 }
